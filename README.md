@@ -35,7 +35,7 @@ A simple and efficient tool for automating the management of Discord accounts wi
    ```bash
    aizer\Scripts\activate
    ```
-5. Install Required Moduel
+5. Install Required Module
    ```bash
    pip install discord requests pystyle discord.py-self
    ```
